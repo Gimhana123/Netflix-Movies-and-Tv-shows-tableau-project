@@ -1,5 +1,9 @@
 # Netflix TV Shows and Movies Data Visualization
 
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Netflix-Movies-and-Tv-shows-tableau-project/blob/main/Screenshot%20(1023).png?raw=true">
+</div>
+
 ## Overview
 This project leverages Tableau to create dynamic and insightful visualizations of Netflix TV shows and movies data. The primary goal is to uncover patterns, trends, and insights that can help in understanding the diverse content library of Netflix, its genre distribution, content ratings, release trends, and other key metrics.
 
